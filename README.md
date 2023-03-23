@@ -1,4 +1,4 @@
-# Dynamic Content via Vue.js and Axios
+# Dynamic Content via Vue 2 and Axios
 Example on how to to load external data via Vue.js and Axios.
 
 ## Vue.js
